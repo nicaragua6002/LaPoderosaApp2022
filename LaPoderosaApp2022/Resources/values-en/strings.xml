@@ -2,16 +2,16 @@
     <string name="app_name">LaPoderosaApp2022</string>
     <string name="action_settings">Settings</string>
   <!--Menu-->
-  <string name="btn1">🏠   |\n INICIO</string>
-  <string name="btn2">📜   |\n HISTORIA</string>
-  <string name="btn3">❤    |\n MISIÓN &amp; VISIÓN</string>
-  <string name="btn4">📌   |\n SUCURSALES</string>
-  <string name="btn5">🔖   |\n CATEGORIAS</string>
+  <string name="btn1">🏠   |\n HOME</string>
+  <string name="btn2">📜   |\n HISTORY</string>
+  <string name="btn3">❤    |\n MISSION AND VISION</string>
+  <string name="btn4">📌   |\n BRANCH OFFICES</string>
+  <string name="btn5">🔖   |\n CATEGORY</string>
   <string name="btn6">⭐    |\n MARCAS</string>
-  <string name="btn7">📖   |\n RECETAS</string>
+  <string name="btn7">📖   |\n RECIPE</string>
 
 <string name="txtinicio">
-  Bienvenida  al público por parte del gerente general Michael Jora Morales.
+  Welcome to the public by our general manager Michael Jora Morales.
   \n\nMaecenas mollis nibh pharetra sapien tempus efficitur id porttitor magna. Praesent cursus feugiat lacinia. Vivamus ut velit molestie, tincidunt mauris in, facilisis libero. In congue lorem ante, sed fermentum lectus viverra ut. Vivamus a condimentum ante. Duis in nunc nunc. Proin elementum lobortis est quis faucibus. Suspendisse massa est, ultricies ac convallis vel, cursus vel neque. Donec id pellentesque purus.
   \n\nPhasellus aliquam ultrices sem, vel tempus felis sollicitudin et. Etiam varius dapibus leo. Suspendisse justo libero, auctor vitae massa eget, vehicula consectetur leo. Suspendisse potenti. Nulla lacus metus, finibus ac viverra et, commodo non est. Quisque lobortis auctor egestas. Maecenas eu diam est. Maecenas leo nunc, commodo at lobortis luctus, dictum eleifend massa. Ut auctor tortor sit amet sollicitudin ornare. Nullam sodales sodales quam, sed luctus justo vestibulum blandit. Nullam vel dui id ex suscipit laoreet et porta elit. Pellentesque in lectus eu lacus consectetur sollicitudin.
   \n\nCras at iaculis est, ultrices gravida neque. In at nulla elit. Aliquam finibus mattis consectetur. Pellentesque vel sagittis eros, nec feugiat urna. Quisque sed mauris at sem maximus blandit. Aliquam erat volutpat. Praesent dignissim odio eu ipsum scelerisque sodales. Aenean vestibulum accumsan libero quis congue. Duis et leo scelerisque, fermentum nibh et, sollicitudin justo. Vestibulum molestie sodales fermentum. Vivamus at erat tortor.
@@ -21,7 +21,7 @@
 </string>
 
   <string name="txthistoria">
-    Origen
+    Origin
     \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius, nisl id tempus tincidunt, est nibh vehicula elit, scelerisque varius sapien urna at eros. Quisque sapien lectus, egestas non pulvinar non, mollis at odio. Vivamus condimentum erat consectetur justo facilisis, condimentum varius nisi tincidunt. Aliquam suscipit dui augue, vehicula fringilla velit tincidunt vehicula. Mauris laoreet porttitor elit sed tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In ornare facilisis odio, pellentesque elementum lectus pulvinar sit amet.
     \n\n
     1963-1973
